@@ -16,4 +16,22 @@ This project is a practical hands-on exercise aimed at utilizing concepts relate
     Defines SavingsAccount and CurrentAccount classes inheriting from BankAccount.
 
 📂 **bank.py**
-Defines the Bank class to manage customers and accounts, perform operations like deposit, withdrawal, transfer, and manage accounts.
+    Defines the Bank class to manage customers and accounts, perform operations like deposit, withdrawal, transfer, and manage accounts.
+
+
+## Steps to Follow
+1. cd into the project folder:
+   ```bash
+   cd banking_system
+   ```
+2. Make the script executable by running the following command:
+    ```bash
+   chmod 700 index.py
+   ```
+
+3. Run the script using Python:
+    ```bash
+   python index.py
+   ```
+
+
